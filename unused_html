@@ -1,0 +1,80 @@
+
+            <!--test-->
+        <!--<div class="animate-block our-team-block">-->
+            <!--<h3 class="h3">Notre équipe</h3>-->
+            <!--<ul id="team" class="team-list clear">-->
+                <!--<li class="team-item">-->
+                    <!--<strong class="name">Antonin Viau</strong>-->
+                    <!--<a id="team-1" href="#team-1-profile"><img class="block img-full" src="img/antonin.jpg"-->
+                                                               <!--alt="Team Member 1">-->
+                    <!--<span class="team-item-content">-->
+                      <!--<strong class="team-item-name">Antonin Viau</strong>-->
+                      <!--<strong class="team-item-title">Physiothérapeute</strong>-->
+                        <!--&lt;!&ndash;<span class="team-item-position">Team Leader</span>&ndash;&gt;-->
+                    <!--</span>-->
+                    <!--</a>-->
+                <!--</li>-->
+            <!--</ul>-->
+        <!--</div>-->
+        <!-- Modal on click-->
+        <!--<div class="team-profiles-block">-->
+            <!--<div class="modal" id="team-1-profile">-->
+                <!--<a href="#team-1" class="modal-close"><span class="sr">Close</span></a>-->
+
+                <!--<div class="modal-inner">-->
+                    <!--<h2 class="team-profile-heading">Antonin Viau</h2>-->
+                    <!--<strong class="block">Physiothérapeute</strong>-->
+
+                    <!--<div class="clear team-profile-content">-->
+                        <!--<img class="team-profile-image block" src="img/antonin.jpg" alt="Team Member 1">-->
+
+                        <!--<div class="team-profile-content-block">-->
+                            <!--<p>-->
+                                <!--&lt;!&ndash; TODO Description&ndash;&gt;-->
+                            <!--</p>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+
+        <!--<div id="about-team" class="content-block about-block">-->
+    <!--<div class="about-block-inner container">-->
+        <!--<div class="animate-block our-team-block">-->
+            <!--<h3 class="h3">Our Team</h3>-->
+            <!--<ul id="team" class="team-list clear">-->
+                <!--<li class="team-item">-->
+                    <!--<a id="team-1" href="#team-1-profile"><img class="block img-full" src="img/antonin.jpg"-->
+                                                               <!--alt="Team Member 1">-->
+                    <!--<span class="team-item-content">-->
+                      <!--<strong class="team-item-name">Antonin Viau</strong>-->
+                      <!--<strong class="team-item-title">Physiothérapeute</strong>-->
+                        <!--&lt;!&ndash;<span class="team-item-position">Team Leader</span>&ndash;&gt;-->
+                    <!--</span>-->
+                    <!--</a>-->
+                <!--</li>-->
+            <!--</ul>-->
+        <!--</div>-->
+        <!--&lt;!&ndash; Modal on click&ndash;&gt;-->
+        <!--<div class="team-profiles-block">-->
+            <!--<div class="modal" id="team-1-profile">-->
+                <!--<a href="#team-1" class="modal-close"><span class="sr">Close</span></a>-->
+
+                <!--<div class="modal-inner">-->
+                    <!--<h2 class="team-profile-heading">Antonin Viau</h2>-->
+                    <!--<strong class="block">Physiothérapeute</strong>-->
+
+                    <!--<div class="clear team-profile-content">-->
+                        <!--<img class="team-profile-image block" src="img/antonin.jpg" alt="Team Member 1">-->
+
+                        <!--<div class="team-profile-content-block">-->
+                            <!--<p>-->
+                                <!--&lt;!&ndash; TODO Description&ndash;&gt;-->
+                            <!--</p>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
