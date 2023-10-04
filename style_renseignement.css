@@ -1,0 +1,16 @@
+.banner {
+  background: url(img/test3.jpg);
+  /*background-size: cover;*/
+background-size: 100% 650px;
+  background-repeat: no-repeat;
+  height: 235px;
+  width: 100%;
+}
+
+.services-block {
+  margin-top: -30px;
+}
+.address {
+  margin: 0 0 0em 0;
+  text-align: center;
+}
